@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+    height: 300px;
+    border-width: 5px;
+}
+
+kbd{
+    font-size: 40px;
+}
+
+body{
+    background-color: peachpuff;
+}
